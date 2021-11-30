@@ -13,4 +13,5 @@ Desired functionality so far (no wrong answers in this section)
 - TV / XBOX / Stereo control (power, volume, etc)
 - PC Controls (esp those running different services like plex, etc)
 -   shutdown / power on
-
+- Water Monitor (for basement)
+- Watchdog service (monitoring device statuses - battery/error) 
