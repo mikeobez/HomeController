@@ -15,3 +15,5 @@ Desired functionality so far (no wrong answers in this section)
 -   shutdown / power on
 - Water Monitor (for basement)
 - Watchdog service (monitoring device statuses - battery/error) 
+- Car OBD2 Data Logging wirelessly
+- Pet movement tracker in house
