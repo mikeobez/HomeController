@@ -17,3 +17,5 @@ Desired functionality so far (no wrong answers in this section)
 - Watchdog service (monitoring device statuses - battery/error) 
 - Car OBD2 Data Logging wirelessly
 - Pet movement tracker in house
+- Occupancy Detector
+- smart heating
