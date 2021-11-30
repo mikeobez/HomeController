@@ -19,3 +19,7 @@ Desired functionality so far (no wrong answers in this section)
 - Pet movement tracker in house
 - Occupancy Detector
 - smart heating
+- Smart lock
+- video for inside and outside
+- plex server control
+- Centralized computer data backups
