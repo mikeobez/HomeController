@@ -6,8 +6,7 @@ Desired functionality so far (no wrong answers in this section)
 - Smart blinds (esp in the bedroom)
 - alarm clock / sleep monitor and control (ties in with things in the bedroom)
 - Garage door control
-- weather station (monitoring only)
--   Temp, Wind (speed/direction), rain, humidity, sun intensity
+- weather station (monitoring only) Temp, Wind (speed/direction), rain, humidity, sun intensity
 - GUI for android / web interface
 - Accessible from inside and outside the home network
 - TV / XBOX / Stereo control (power, volume, etc)
@@ -23,3 +22,5 @@ Desired functionality so far (no wrong answers in this section)
 - video for inside and outside
 - plex server control
 - Centralized computer data backups
+- Temperature monitoring in multiple rooms
+- Electricity Usage monitoring
